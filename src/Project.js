@@ -1,7 +1,7 @@
 import React from "react";
 import "./Project.css";
-import Project1 from "./img/portfolio-1.png";
-import Project2 from "./img/portfolio-2.png";
+import Project1 from "./img/portfolio-2.png";
+import Project2 from "./img/portfolio-1.png";
 
 function Project() {
   return (
