@@ -9,7 +9,7 @@ function Home() {
     header.classList.toggle("active", window.scrollY > 0);
   });
   // Toogle Menu
-  const [show, setShow] = useState(true);
+  const [show, setShow] = useState(false);
   return (
     <div className="home" id="Home">
       <div className="home__bg">
